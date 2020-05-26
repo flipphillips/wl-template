@@ -1,0 +1,105 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3011,         97]
+NotebookOptionsPosition[      2109,         72]
+NotebookOutlinePosition[      2501,         88]
+CellTagsIndexPosition[      2458,         85]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Package", "Title",
+ CellChangeTimes->{{3.7993367059811783`*^9, 
+  3.799336706776092*^9}},ExpressionUUID->"1da50e42-d8bc-4d95-97b1-\
+3ca28edd3710"],
+
+Cell["It does a thing!", "Text",
+ CellChangeTimes->{{3.799336719120414*^9, 
+  3.799336721184424*^9}},ExpressionUUID->"9c8ea411-0a7f-4fa3-bccd-\
+479d9b152517"],
+
+Cell[TextData[{
+ ButtonBox["flip@flipphillips.com",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["mailto:flip@flipphillips.com"], None},
+  ButtonNote->"mailto:flip@flipphillips.com"],
+ "\n",
+ ButtonBox["https://flipphillips.com",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://flipphillips.com"], None},
+  ButtonNote->"https://flipphillips.com"]
+}], "Text",
+ CellChangeTimes->{{3.799336708741852*^9, 3.799336768723222*^9}, {
+  3.799446922007736*^9, 3.799446965400222*^9}, {3.7994470130281897`*^9, 
+  3.799447023857888*^9}},ExpressionUUID->"0dc18349-2d58-4e3e-96c2-\
+5378005d0eb1"],
+
+Cell[CellGroupData[{
+
+Cell["Development Stuff", "Section",
+ CellChangeTimes->{{3.7993367774560127`*^9, 
+  3.799336780858014*^9}},ExpressionUUID->"269f63a3-03bd-40b3-8739-\
+a1eb5d38e333"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"2", "+", 
+  RowBox[{"2", "!"}]}]], "Input",
+ CellChangeTimes->{{3.799446967727807*^9, 3.799446970587511*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"85f9f5fc-4d72-4244-b306-8ff6c60030bc"],
+
+Cell[BoxData["4"], "Output",
+ CellChangeTimes->{3.799446971317719*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"da8948b0-6579-428f-a413-28408869b920"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 905},
+WindowMargins->{{12, Automatic}, {Automatic, 24}},
+FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (May 21, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"83acbe07-3ed4-4ef5-a2e8-11e589ebb7c6"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 152, 3, 132, "Title",ExpressionUUID->"1da50e42-d8bc-4d95-97b1-3ca28edd3710"],
+Cell[735, 27, 158, 3, 47, "Text",ExpressionUUID->"9c8ea411-0a7f-4fa3-bccd-479d9b152517"],
+Cell[896, 32, 597, 16, 79, "Text",ExpressionUUID->"0dc18349-2d58-4e3e-96c2-5378005d0eb1"],
+Cell[CellGroupData[{
+Cell[1518, 52, 164, 3, 90, "Section",ExpressionUUID->"269f63a3-03bd-40b3-8739-a1eb5d38e333"],
+Cell[CellGroupData[{
+Cell[1707, 59, 211, 4, 37, "Input",ExpressionUUID->"85f9f5fc-4d72-4244-b306-8ff6c60030bc"],
+Cell[1921, 65, 148, 2, 42, "Output",ExpressionUUID->"da8948b0-6579-428f-a413-28408869b920"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
